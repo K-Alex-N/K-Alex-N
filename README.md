@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m Alexey Kurochkin
-👀 I’m interested in IT industry, in particular Automation Testing with Python.
-
-📫 How to reach me
-KurochkinAlexei@yandex.ru
-[https://t.me/artemdashkov](https://t.me/kurochkin_alexey)
-[https://www.linkedin.com/in/artem-dashkov](https://www.linkedin.com/in/alexey-kurochkin-8a167127a/)
+👋 Hi, I’m Alexey Kurochkin  
+👀 I’m interested in IT industry, in particular Automation Testing with Python.  
+  
+📫 How to reach me  
+KurochkinAlexei@yandex.ru  
+[https://t.me/artemdashkov](https://t.me/kurochkin_alexey)  
+[https://www.linkedin.com/in/artem-dashkov](https://www.linkedin.com/in/alexey-kurochkin-8a167127a/)  
