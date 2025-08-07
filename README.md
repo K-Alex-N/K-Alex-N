@@ -17,5 +17,5 @@ Here are some ideas to get you started:
   
 📫 How to reach me  
 KurochkinAlexei@yandex.ru  
-[telegram](https://t.me/kurochkin_alexey)  
-[linkedin](https://www.linkedin.com/in/alexey-kurochkin-8a167127a/)  
+[https://t.me/kurochkin_alexey](https://t.me/kurochkin_alexey)
+[https://www.linkedin.com/in/alexey-kurochkin-8a167127a/](https://www.linkedin.com/in/alexey-kurochkin-8a167127a/)  
