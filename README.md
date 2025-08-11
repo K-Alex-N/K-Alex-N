@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi, I’m Alexey Kurochkin  
-👀 QA Automation Engener 
-Stack: Python, Pytest, Requests, Selenium, Playwright. 
+👀 QA Automation Engener   
+Stack: Python, Pytest, Requests, Selenium, Playwright.   
 This is pet-project for test automation, docker >>> https://github.com/K-Alex-N/api_python_fastapi
   
 📫 How to reach me  
